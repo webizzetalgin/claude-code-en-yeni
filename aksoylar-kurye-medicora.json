@@ -1,0 +1,3690 @@
+{
+  "title": "Aksoylar Kurye — Ana Sayfa (Medicora Teması)",
+  "type": "page",
+  "version": "0.4",
+  "page_settings": {
+    "hide_title": "yes",
+    "template": "elementor_canvas"
+  },
+  "content": [
+    {
+      "id": "sc03f5",
+      "elType": "section",
+      "settings": {
+        "layout": "full_width",
+        "content_width": {
+          "size": 1200,
+          "unit": "px"
+        },
+        "gap": "no",
+        "padding": {
+          "unit": "px",
+          "top": "110",
+          "right": "32",
+          "bottom": "110",
+          "left": "32",
+          "isLinked": false
+        },
+        "padding_tablet": {
+          "unit": "px",
+          "top": "82",
+          "right": "24",
+          "bottom": "82",
+          "left": "24",
+          "isLinked": false
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "66",
+          "right": "18",
+          "bottom": "66",
+          "left": "18",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#0A1F33"
+      },
+      "elements": [
+        {
+          "id": "cl03f2",
+          "elType": "column",
+          "settings": {
+            "_column_size": 55,
+            "_inline_size": 55,
+            "_inline_size_tablet": 100,
+            "_inline_size_mobile": 100,
+            "vertical_align": "middle",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "40",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            }
+          },
+          "elements": [
+            {
+              "id": "tx03e9",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p style=\"margin:0;\"><span style=\"display:inline-block;background:#E8F0FE;color:#0D59F2;font-family:Inter;font-size:11px;font-weight:600;letter-spacing:1.4px;text-transform:uppercase;padding:5px 12px;border-radius:4px;\">İSTANBUL MOTO KURYE</span></p>",
+                "text_color": "#0D59F2",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 11
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 15
+                },
+                "typography_font_weight": "600",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.75
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "sp03ea",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 16
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "hd03eb",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Aksoylar Kurye İle Zamanında Teslimat Avantajı",
+                "header_size": "h1",
+                "align": "left",
+                "title_color": "#FFFFFF",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter Tight",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 54
+                },
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 43
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 34
+                },
+                "typography_font_weight": "700",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.12
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "sp03ec",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 20
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "tx03ed",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>İstanbul moto kurye firması olarak acil iletilmesi gereken gönderilere ivedilikle karşılık veriyoruz. Şehrin her noktasına hızlı ve güvenilir teslimat hizmetindeyiz.</p>",
+                "text_color": "rgba(255,255,255,0.72)",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 15
+                },
+                "typography_font_weight": "400",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.75
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "sp03ee",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 36
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "bt03ef",
+              "elType": "widget",
+              "widgetType": "button",
+              "settings": {
+                "text": "Kurye Çağır",
+                "link": {
+                  "url": "tel:+905322079609",
+                  "is_external": false,
+                  "nofollow": false
+                },
+                "align": "left",
+                "size": "lg",
+                "background_color": "#0D59F2",
+                "button_text_color": "#FFFFFF",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "6",
+                  "right": "6",
+                  "bottom": "6",
+                  "left": "6",
+                  "isLinked": true
+                },
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 15
+                },
+                "typography_font_weight": "600",
+                "button_hover_background_color": "#0946C5",
+                "button_hover_color": "#FFFFFF"
+              },
+              "elements": []
+            },
+            {
+              "id": "sp03f0",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 12
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "bo03f1",
+              "elType": "widget",
+              "widgetType": "button",
+              "settings": {
+                "text": "Hizmetlerimizi Keşfet",
+                "link": {
+                  "url": "#hizmetler",
+                  "is_external": false,
+                  "nofollow": false
+                },
+                "align": "left",
+                "size": "lg",
+                "background_color": "rgba(0,0,0,0)",
+                "button_text_color": "#FFFFFF",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "2",
+                  "right": "2",
+                  "bottom": "2",
+                  "left": "2",
+                  "isLinked": true
+                },
+                "border_color": "rgba(255,255,255,0.35)",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "6",
+                  "right": "6",
+                  "bottom": "6",
+                  "left": "6",
+                  "isLinked": true
+                },
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 15
+                },
+                "typography_font_weight": "600",
+                "button_hover_background_color": "rgba(255,255,255,0.10)",
+                "button_hover_color": "#FFFFFF"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "cl03f4",
+          "elType": "column",
+          "settings": {
+            "_column_size": 45,
+            "_inline_size": 45,
+            "_inline_size_tablet": 100,
+            "_inline_size_mobile": 100,
+            "vertical_align": "middle",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            }
+          },
+          "elements": [
+            {
+              "id": "im03f3",
+              "elType": "widget",
+              "widgetType": "image",
+              "settings": {
+                "image": {
+                  "url": "https://placehold.co/620x440/0A1F33/0D59F2?text=Aksoylar+Kurye",
+                  "alt": "İstanbul moto kurye hizmetleri"
+                },
+                "image_size": "full",
+                "align": "center",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "12",
+                  "right": "12",
+                  "bottom": "12",
+                  "left": "12",
+                  "isLinked": true
+                }
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "sc03fe",
+      "elType": "section",
+      "settings": {
+        "layout": "full_width",
+        "content_width": {
+          "size": 1200,
+          "unit": "px"
+        },
+        "gap": "no",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "32",
+          "bottom": "0",
+          "left": "32",
+          "isLinked": false
+        },
+        "padding_tablet": {
+          "unit": "px",
+          "top": "0",
+          "right": "24",
+          "bottom": "0",
+          "left": "24",
+          "isLinked": false
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "0",
+          "right": "18",
+          "bottom": "0",
+          "left": "18",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#F0F5FF"
+      },
+      "elements": [
+        {
+          "id": "cl03f7",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_inline_size": 25,
+            "_inline_size_tablet": 50,
+            "_inline_size_mobile": 100,
+            "vertical_align": "top",
+            "padding": {
+              "unit": "px",
+              "top": "32",
+              "right": "36",
+              "bottom": "32",
+              "left": "24",
+              "isLinked": false
+            },
+            "border_border": "solid",
+            "border_width": {
+              "unit": "px",
+              "top": "0",
+              "right": "1",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            },
+            "border_color": "rgba(0,0,0,0.08)"
+          },
+          "elements": [
+            {
+              "id": "si03f6",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "settings": {
+                "selected_icon": {
+                  "value": "fas fa-bolt",
+                  "library": "fa-solid"
+                },
+                "title_text": "%99",
+                "description_text": "Hızlı Kurye Desteği",
+                "icon_color": "#0D59F2",
+                "title_color": "#0A1F33",
+                "description_color": "#5A6A7A",
+                "icon_size": {
+                  "unit": "px",
+                  "size": 32
+                },
+                "title_size": "h3",
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Inter Tight",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 32
+                },
+                "title_typography_font_weight": "700",
+                "title_typography_line_height": {
+                  "unit": "em",
+                  "size": 1.05
+                },
+                "description_typography_typography": "custom",
+                "description_typography_font_family": "Inter",
+                "description_typography_font_size": {
+                  "unit": "px",
+                  "size": 14
+                },
+                "position": "left"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "cl03f9",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_inline_size": 25,
+            "_inline_size_tablet": 50,
+            "_inline_size_mobile": 100,
+            "vertical_align": "top",
+            "padding": {
+              "unit": "px",
+              "top": "32",
+              "right": "36",
+              "bottom": "32",
+              "left": "24",
+              "isLinked": false
+            },
+            "border_border": "solid",
+            "border_width": {
+              "unit": "px",
+              "top": "0",
+              "right": "1",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            },
+            "border_color": "rgba(0,0,0,0.08)"
+          },
+          "elements": [
+            {
+              "id": "si03f8",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "settings": {
+                "selected_icon": {
+                  "value": "fas fa-clock",
+                  "library": "fa-solid"
+                },
+                "title_text": "30 dk",
+                "description_text": "Kapıdan Kapıya Teslimat",
+                "icon_color": "#0D59F2",
+                "title_color": "#0A1F33",
+                "description_color": "#5A6A7A",
+                "icon_size": {
+                  "unit": "px",
+                  "size": 32
+                },
+                "title_size": "h3",
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Inter Tight",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 32
+                },
+                "title_typography_font_weight": "700",
+                "title_typography_line_height": {
+                  "unit": "em",
+                  "size": 1.05
+                },
+                "description_typography_typography": "custom",
+                "description_typography_font_family": "Inter",
+                "description_typography_font_size": {
+                  "unit": "px",
+                  "size": 14
+                },
+                "position": "left"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "cl03fb",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_inline_size": 25,
+            "_inline_size_tablet": 50,
+            "_inline_size_mobile": 100,
+            "vertical_align": "top",
+            "padding": {
+              "unit": "px",
+              "top": "32",
+              "right": "36",
+              "bottom": "32",
+              "left": "24",
+              "isLinked": false
+            },
+            "border_border": "solid",
+            "border_width": {
+              "unit": "px",
+              "top": "0",
+              "right": "1",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            },
+            "border_color": "rgba(0,0,0,0.08)"
+          },
+          "elements": [
+            {
+              "id": "si03fa",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "settings": {
+                "selected_icon": {
+                  "value": "fas fa-headset",
+                  "library": "fa-solid"
+                },
+                "title_text": "7/24",
+                "description_text": "Kesintisiz Hizmet",
+                "icon_color": "#0D59F2",
+                "title_color": "#0A1F33",
+                "description_color": "#5A6A7A",
+                "icon_size": {
+                  "unit": "px",
+                  "size": 32
+                },
+                "title_size": "h3",
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Inter Tight",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 32
+                },
+                "title_typography_font_weight": "700",
+                "title_typography_line_height": {
+                  "unit": "em",
+                  "size": 1.05
+                },
+                "description_typography_typography": "custom",
+                "description_typography_font_family": "Inter",
+                "description_typography_font_size": {
+                  "unit": "px",
+                  "size": 14
+                },
+                "position": "left"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "cl03fd",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_inline_size": 25,
+            "_inline_size_tablet": 50,
+            "_inline_size_mobile": 100,
+            "vertical_align": "top",
+            "padding": {
+              "unit": "px",
+              "top": "32",
+              "right": "36",
+              "bottom": "32",
+              "left": "24",
+              "isLinked": false
+            }
+          },
+          "elements": [
+            {
+              "id": "si03fc",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "settings": {
+                "selected_icon": {
+                  "value": "fas fa-user-check",
+                  "library": "fa-solid"
+                },
+                "title_text": "✓",
+                "description_text": "Profesyonel Kadro",
+                "icon_color": "#0D59F2",
+                "title_color": "#0A1F33",
+                "description_color": "#5A6A7A",
+                "icon_size": {
+                  "unit": "px",
+                  "size": 32
+                },
+                "title_size": "h3",
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Inter Tight",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 32
+                },
+                "title_typography_font_weight": "700",
+                "title_typography_line_height": {
+                  "unit": "em",
+                  "size": 1.05
+                },
+                "description_typography_typography": "custom",
+                "description_typography_font_family": "Inter",
+                "description_typography_font_size": {
+                  "unit": "px",
+                  "size": 14
+                },
+                "position": "left"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "sc0407",
+      "elType": "section",
+      "settings": {
+        "layout": "full_width",
+        "content_width": {
+          "size": 1200,
+          "unit": "px"
+        },
+        "gap": "no",
+        "padding": {
+          "unit": "px",
+          "top": "72",
+          "right": "32",
+          "bottom": "72",
+          "left": "32",
+          "isLinked": false
+        },
+        "padding_tablet": {
+          "unit": "px",
+          "top": "54",
+          "right": "24",
+          "bottom": "54",
+          "left": "24",
+          "isLinked": false
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "43",
+          "right": "18",
+          "bottom": "43",
+          "left": "18",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#FFFFFF"
+      },
+      "elements": [
+        {
+          "id": "cl0406",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": 100,
+            "_inline_size_tablet": 100,
+            "_inline_size_mobile": 100,
+            "vertical_align": "top",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            }
+          },
+          "elements": [
+            {
+              "id": "tx03ff",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p style=\"margin:0;\"><span style=\"display:inline-block;background:#E8F0FE;color:#0D59F2;font-family:Inter;font-size:11px;font-weight:600;letter-spacing:1.4px;text-transform:uppercase;padding:5px 12px;border-radius:4px;\">HİZMETLERİMİZ</span></p>",
+                "text_color": "#0D59F2",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 11
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 15
+                },
+                "typography_font_weight": "600",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.75
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "sp0400",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 14
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "hd0401",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Aksoylar Kurye Hizmetlerimizle Tanışın",
+                "header_size": "h2",
+                "align": "left",
+                "title_color": "#0A1F33",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter Tight",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 38
+                },
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 30
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 26
+                },
+                "typography_font_weight": "700",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.2
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "sp0402",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 10
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "tx0403",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Sunmuş olduğumuz hizmet seçeneklerimizle tanışın.</p>",
+                "text_color": "#5A6A7A",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 16
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 15
+                },
+                "typography_font_weight": "400",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.75
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "sp0404",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 20
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "bt0405",
+              "elType": "widget",
+              "widgetType": "button",
+              "settings": {
+                "text": "Hizmetlerimiz Sayfasını Görüntüle",
+                "link": {
+                  "url": "/hizmetlerimiz",
+                  "is_external": false,
+                  "nofollow": false
+                },
+                "align": "left",
+                "size": "lg",
+                "background_color": "#0A1F33",
+                "button_text_color": "#FFFFFF",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "6",
+                  "right": "6",
+                  "bottom": "6",
+                  "left": "6",
+                  "isLinked": true
+                },
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 15
+                },
+                "typography_font_weight": "600",
+                "button_hover_background_color": "#0946C5",
+                "button_hover_color": "#FFFFFF"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "sc0408",
+      "elType": "section",
+      "settings": {
+        "layout": "full_width",
+        "content_width": {
+          "size": 1200,
+          "unit": "px"
+        },
+        "gap": "no",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "32",
+          "bottom": "72",
+          "left": "32",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "border_border": "solid",
+        "border_width": {
+          "unit": "px",
+          "top": "1",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": false
+        },
+        "border_color": "#E2E8F0"
+      },
+      "elements": [
+        {
+          "id": "cl040e",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_inline_size": 25,
+            "_inline_size_tablet": 50,
+            "_inline_size_mobile": 100,
+            "vertical_align": "top",
+            "padding": {
+              "unit": "px",
+              "top": "30",
+              "right": "24",
+              "bottom": "30",
+              "left": "24",
+              "isLinked": false
+            }
+          },
+          "elements": [
+            {
+              "id": "ib0409",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "settings": {
+                "selected_icon": {
+                  "value": "fas fa-motorcycle",
+                  "library": "fa-solid"
+                },
+                "title_text": "Moto Kurye",
+                "description_text": "Evrakların, paketlerin, hediyelik ürünlerin ve benzeri eşyaların gün içinde teslimatının yapıldığı hizmettir.",
+                "icon_color": "#0D59F2",
+                "title_color": "#0A1F33",
+                "description_color": "#5A6A7A",
+                "icon_size": {
+                  "unit": "px",
+                  "size": 28
+                },
+                "title_size": "h3",
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Inter Tight",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 18
+                },
+                "title_typography_font_weight": "700",
+                "title_typography_line_height": {
+                  "unit": "em",
+                  "size": 1.25
+                },
+                "description_typography_typography": "custom",
+                "description_typography_font_family": "Inter",
+                "description_typography_font_size": {
+                  "unit": "px",
+                  "size": 14
+                },
+                "description_typography_line_height": {
+                  "unit": "em",
+                  "size": 1.65
+                },
+                "position": "top"
+              },
+              "elements": []
+            },
+            {
+              "id": "sp040a",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 18
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "tx040b",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p style=\"margin:0;\"><span style=\"color:#0D59F2;font-weight:600;font-size:13px;\"><strong>Gün içi teslimat</strong></span></p>",
+                "text_color": "#0D59F2",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 13
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 15
+                },
+                "typography_font_weight": "600",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.75
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "sp040c",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 12
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "tx040d",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p style=\"margin:0;\"><a href=\"#\" style=\"color:#0D59F2;font-size:14px;font-weight:600;text-decoration:none;\">→ İncele</a></p>",
+                "text_color": "#0D59F2",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 14
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 15
+                },
+                "typography_font_weight": "400",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.75
+                }
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "cl0414",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_inline_size": 25,
+            "_inline_size_tablet": 50,
+            "_inline_size_mobile": 100,
+            "vertical_align": "top",
+            "padding": {
+              "unit": "px",
+              "top": "30",
+              "right": "24",
+              "bottom": "30",
+              "left": "24",
+              "isLinked": false
+            }
+          },
+          "elements": [
+            {
+              "id": "ib040f",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "settings": {
+                "selected_icon": {
+                  "value": "fas fa-bolt",
+                  "library": "fa-solid"
+                },
+                "title_text": "Acil Kurye",
+                "description_text": "Acil olan tüm teslimat işleri için en iyi çözüm. Gönderiler en kısa sürede ulaştırılmaktadır.",
+                "icon_color": "#0D59F2",
+                "title_color": "#0A1F33",
+                "description_color": "#5A6A7A",
+                "icon_size": {
+                  "unit": "px",
+                  "size": 28
+                },
+                "title_size": "h3",
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Inter Tight",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 18
+                },
+                "title_typography_font_weight": "700",
+                "title_typography_line_height": {
+                  "unit": "em",
+                  "size": 1.25
+                },
+                "description_typography_typography": "custom",
+                "description_typography_font_family": "Inter",
+                "description_typography_font_size": {
+                  "unit": "px",
+                  "size": 14
+                },
+                "description_typography_line_height": {
+                  "unit": "em",
+                  "size": 1.65
+                },
+                "position": "top"
+              },
+              "elements": []
+            },
+            {
+              "id": "sp0410",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 18
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "tx0411",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p style=\"margin:0;\"><span style=\"color:#0D59F2;font-weight:600;font-size:13px;\"><strong>Hızlı teslimat çözümü</strong></span></p>",
+                "text_color": "#0D59F2",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 13
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 15
+                },
+                "typography_font_weight": "600",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.75
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "sp0412",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 12
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "tx0413",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p style=\"margin:0;\"><a href=\"#\" style=\"color:#0D59F2;font-size:14px;font-weight:600;text-decoration:none;\">→ İncele</a></p>",
+                "text_color": "#0D59F2",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 14
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 15
+                },
+                "typography_font_weight": "400",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.75
+                }
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "cl041a",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_inline_size": 25,
+            "_inline_size_tablet": 50,
+            "_inline_size_mobile": 100,
+            "vertical_align": "top",
+            "padding": {
+              "unit": "px",
+              "top": "30",
+              "right": "24",
+              "bottom": "30",
+              "left": "24",
+              "isLinked": false
+            }
+          },
+          "elements": [
+            {
+              "id": "ib0415",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "settings": {
+                "selected_icon": {
+                  "value": "fas fa-car",
+                  "library": "fa-solid"
+                },
+                "title_text": "Araçlı Kurye",
+                "description_text": "Büyük ebatlı ya da hassas gönderilerin taşınması için tercih edilen geniş zamanlı, ekonomik fiyatlı hizmettir.",
+                "icon_color": "#0D59F2",
+                "title_color": "#0A1F33",
+                "description_color": "#5A6A7A",
+                "icon_size": {
+                  "unit": "px",
+                  "size": 28
+                },
+                "title_size": "h3",
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Inter Tight",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 18
+                },
+                "title_typography_font_weight": "700",
+                "title_typography_line_height": {
+                  "unit": "em",
+                  "size": 1.25
+                },
+                "description_typography_typography": "custom",
+                "description_typography_font_family": "Inter",
+                "description_typography_font_size": {
+                  "unit": "px",
+                  "size": 14
+                },
+                "description_typography_line_height": {
+                  "unit": "em",
+                  "size": 1.65
+                },
+                "position": "top"
+              },
+              "elements": []
+            },
+            {
+              "id": "sp0416",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 18
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "tx0417",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p style=\"margin:0;\"><span style=\"color:#0D59F2;font-weight:600;font-size:13px;\"><strong>Güvenilir taşıma</strong></span></p>",
+                "text_color": "#0D59F2",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 13
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 15
+                },
+                "typography_font_weight": "600",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.75
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "sp0418",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 12
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "tx0419",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p style=\"margin:0;\"><a href=\"#\" style=\"color:#0D59F2;font-size:14px;font-weight:600;text-decoration:none;\">→ İncele</a></p>",
+                "text_color": "#0D59F2",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 14
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 15
+                },
+                "typography_font_weight": "400",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.75
+                }
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "cl0420",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_inline_size": 25,
+            "_inline_size_tablet": 50,
+            "_inline_size_mobile": 100,
+            "vertical_align": "top",
+            "padding": {
+              "unit": "px",
+              "top": "30",
+              "right": "24",
+              "bottom": "30",
+              "left": "24",
+              "isLinked": false
+            }
+          },
+          "elements": [
+            {
+              "id": "ib041b",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "settings": {
+                "selected_icon": {
+                  "value": "fas fa-road",
+                  "library": "fa-solid"
+                },
+                "title_text": "Şehirler Arası Kurye",
+                "description_text": "Acil ya da planlı olarak farklı şehirlere gerçekleştirilecek teslimatlar için kullanılan hizmettir.",
+                "icon_color": "#0D59F2",
+                "title_color": "#0A1F33",
+                "description_color": "#5A6A7A",
+                "icon_size": {
+                  "unit": "px",
+                  "size": 28
+                },
+                "title_size": "h3",
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Inter Tight",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 18
+                },
+                "title_typography_font_weight": "700",
+                "title_typography_line_height": {
+                  "unit": "em",
+                  "size": 1.25
+                },
+                "description_typography_typography": "custom",
+                "description_typography_font_family": "Inter",
+                "description_typography_font_size": {
+                  "unit": "px",
+                  "size": 14
+                },
+                "description_typography_line_height": {
+                  "unit": "em",
+                  "size": 1.65
+                },
+                "position": "top"
+              },
+              "elements": []
+            },
+            {
+              "id": "sp041c",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 18
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "tx041d",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p style=\"margin:0;\"><span style=\"color:#0D59F2;font-weight:600;font-size:13px;\"><strong>Geniş hizmet kapsamı</strong></span></p>",
+                "text_color": "#0D59F2",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 13
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 15
+                },
+                "typography_font_weight": "600",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.75
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "sp041e",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 12
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "tx041f",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p style=\"margin:0;\"><a href=\"#\" style=\"color:#0D59F2;font-size:14px;font-weight:600;text-decoration:none;\">→ İncele</a></p>",
+                "text_color": "#0D59F2",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 14
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 15
+                },
+                "typography_font_weight": "400",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.75
+                }
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "sc0433",
+      "elType": "section",
+      "settings": {
+        "layout": "full_width",
+        "content_width": {
+          "size": 1200,
+          "unit": "px"
+        },
+        "gap": "no",
+        "padding": {
+          "unit": "px",
+          "top": "80",
+          "right": "32",
+          "bottom": "80",
+          "left": "32",
+          "isLinked": false
+        },
+        "padding_tablet": {
+          "unit": "px",
+          "top": "60",
+          "right": "24",
+          "bottom": "60",
+          "left": "24",
+          "isLinked": false
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "48",
+          "right": "18",
+          "bottom": "48",
+          "left": "18",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#F0F5FF"
+      },
+      "elements": [
+        {
+          "id": "cl042c",
+          "elType": "column",
+          "settings": {
+            "_column_size": 55,
+            "_inline_size": 55,
+            "_inline_size_tablet": 100,
+            "_inline_size_mobile": 100,
+            "vertical_align": "middle",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "48",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            }
+          },
+          "elements": [
+            {
+              "id": "tx0421",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p style=\"margin:0;\"><span style=\"display:inline-block;background:#E8F0FE;color:#0D59F2;font-family:Inter;font-size:11px;font-weight:600;letter-spacing:1.4px;text-transform:uppercase;padding:5px 12px;border-radius:4px;\">HAKKIMIZDA</span></p>",
+                "text_color": "#0D59F2",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 11
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 15
+                },
+                "typography_font_weight": "600",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.75
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "sp0422",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 16
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "hd0423",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "İstanbul Moto Kurye Olarak Hızlı Teslimatlarda Yanınızdayız!",
+                "header_size": "h2",
+                "align": "left",
+                "title_color": "#0A1F33",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter Tight",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 36
+                },
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 28
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 26
+                },
+                "typography_font_weight": "700",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.2
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "sp0424",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 20
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "tx0425",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>İstanbul motor kurye hizmetlerimiz sayesinde gönderileri hızlı ve güvenli bir şekilde varış noktasına ulaştırıyoruz. İstanbul'da gönderilerin araba ile teslimatın yapılması her zaman kolay olamayabiliyor. Bu nedenle hızlı kurye firması olarak bizler devreye giriyoruz.</p>",
+                "text_color": "#5A6A7A",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 16
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 15
+                },
+                "typography_font_weight": "400",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.75
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "sp0426",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 16
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "tx0427",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Gönderileri ivedi bir şekilde alıcı adresinden alıyor ve kısa süre içerisinde varış noktasına ulaştırıyoruz. İstanbul kurye olarak sunduğumuz bu çözümlerle, fabrikaların, işletmelerin ve bireylerin günlük iş akışını aksatmamalarını sağlıyoruz.</p>",
+                "text_color": "#5A6A7A",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 16
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 15
+                },
+                "typography_font_weight": "400",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.75
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "sp0428",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 16
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "tx0429",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>İster acil bir evrak gönderiniz, isterseniz de önemli bir paket teslimatınız olsun, tüm gönderiler için her zaman yanınızda oluyoruz. Gönderilerin güvenliğini sağlamak adına ise her kuryeyi, uzman kadromuz ile birlikte eğitiyoruz.</p>",
+                "text_color": "#5A6A7A",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 16
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 15
+                },
+                "typography_font_weight": "400",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.75
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "sp042a",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 32
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "bt042b",
+              "elType": "widget",
+              "widgetType": "button",
+              "settings": {
+                "text": "Hizmetlerimizi Keşfedin",
+                "link": {
+                  "url": "/hizmetlerimiz",
+                  "is_external": false,
+                  "nofollow": false
+                },
+                "align": "left",
+                "size": "lg",
+                "background_color": "#0D59F2",
+                "button_text_color": "#FFFFFF",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "6",
+                  "right": "6",
+                  "bottom": "6",
+                  "left": "6",
+                  "isLinked": true
+                },
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 15
+                },
+                "typography_font_weight": "600",
+                "button_hover_background_color": "#0946C5",
+                "button_hover_color": "#FFFFFF"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "cl0432",
+          "elType": "column",
+          "settings": {
+            "_column_size": 45,
+            "_inline_size": 45,
+            "_inline_size_tablet": 100,
+            "_inline_size_mobile": 100,
+            "vertical_align": "middle",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "24",
+              "isLinked": false
+            }
+          },
+          "elements": [
+            {
+              "id": "ib042d",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "settings": {
+                "selected_icon": {
+                  "value": "fas fa-map-marker-alt",
+                  "library": "fa-solid"
+                },
+                "title_text": "İstanbul'un Her Noktasına",
+                "description_text": "Şehrin tüm ilçelerine hızlı ve güvenli teslimat yapıyoruz.",
+                "icon_color": "#0D59F2",
+                "title_color": "#0A1F33",
+                "description_color": "#5A6A7A",
+                "icon_size": {
+                  "unit": "px",
+                  "size": 28
+                },
+                "title_size": "h3",
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Inter Tight",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 18
+                },
+                "title_typography_font_weight": "700",
+                "title_typography_line_height": {
+                  "unit": "em",
+                  "size": 1.25
+                },
+                "description_typography_typography": "custom",
+                "description_typography_font_family": "Inter",
+                "description_typography_font_size": {
+                  "unit": "px",
+                  "size": 14
+                },
+                "description_typography_line_height": {
+                  "unit": "em",
+                  "size": 1.65
+                },
+                "position": "top"
+              },
+              "elements": []
+            },
+            {
+              "id": "sp042e",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 24
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "ib042f",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "settings": {
+                "selected_icon": {
+                  "value": "fas fa-shield-alt",
+                  "library": "fa-solid"
+                },
+                "title_text": "Güvenli Teslimat Garantisi",
+                "description_text": "Her kurye uzman kadromuzla eğitilmiş, gönderileriniz güvende.",
+                "icon_color": "#0D59F2",
+                "title_color": "#0A1F33",
+                "description_color": "#5A6A7A",
+                "icon_size": {
+                  "unit": "px",
+                  "size": 28
+                },
+                "title_size": "h3",
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Inter Tight",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 18
+                },
+                "title_typography_font_weight": "700",
+                "title_typography_line_height": {
+                  "unit": "em",
+                  "size": 1.25
+                },
+                "description_typography_typography": "custom",
+                "description_typography_font_family": "Inter",
+                "description_typography_font_size": {
+                  "unit": "px",
+                  "size": 14
+                },
+                "description_typography_line_height": {
+                  "unit": "em",
+                  "size": 1.65
+                },
+                "position": "top"
+              },
+              "elements": []
+            },
+            {
+              "id": "sp0430",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 24
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "ib0431",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "settings": {
+                "selected_icon": {
+                  "value": "fas fa-wallet",
+                  "library": "fa-solid"
+                },
+                "title_text": "Uygun Fiyat Politikası",
+                "description_text": "Boyut, ağırlık ve mesafeye göre şeffaf ve rekabetçi fiyatlandırma.",
+                "icon_color": "#0D59F2",
+                "title_color": "#0A1F33",
+                "description_color": "#5A6A7A",
+                "icon_size": {
+                  "unit": "px",
+                  "size": 28
+                },
+                "title_size": "h3",
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Inter Tight",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 18
+                },
+                "title_typography_font_weight": "700",
+                "title_typography_line_height": {
+                  "unit": "em",
+                  "size": 1.25
+                },
+                "description_typography_typography": "custom",
+                "description_typography_font_family": "Inter",
+                "description_typography_font_size": {
+                  "unit": "px",
+                  "size": 14
+                },
+                "description_typography_line_height": {
+                  "unit": "em",
+                  "size": 1.65
+                },
+                "position": "top"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "sc0446",
+      "elType": "section",
+      "settings": {
+        "layout": "full_width",
+        "content_width": {
+          "size": 1200,
+          "unit": "px"
+        },
+        "gap": "no",
+        "padding": {
+          "unit": "px",
+          "top": "72",
+          "right": "32",
+          "bottom": "72",
+          "left": "32",
+          "isLinked": false
+        },
+        "padding_tablet": {
+          "unit": "px",
+          "top": "54",
+          "right": "24",
+          "bottom": "54",
+          "left": "24",
+          "isLinked": false
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "43",
+          "right": "18",
+          "bottom": "43",
+          "left": "18",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#0A1F33"
+      },
+      "elements": [
+        {
+          "id": "cl0439",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": 100,
+            "_inline_size_tablet": 100,
+            "_inline_size_mobile": 100,
+            "vertical_align": "top",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "32",
+              "left": "0",
+              "isLinked": false
+            }
+          },
+          "elements": [
+            {
+              "id": "tx0434",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p style=\"margin:0;\"><span style=\"display:inline-block;background:rgba(255,255,255,0.12);color:#FFFFFF;font-family:Inter;font-size:11px;font-weight:600;letter-spacing:1.4px;text-transform:uppercase;padding:5px 12px;border-radius:4px;\">EKSTRA HİZMETLER</span></p>",
+                "text_color": "#FFFFFF",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 11
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 15
+                },
+                "typography_font_weight": "600",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.75
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "sp0435",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 16
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "hd0436",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Ekstra Hizmet Verdiğimiz Alanlar",
+                "header_size": "h2",
+                "align": "left",
+                "title_color": "#FFFFFF",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter Tight",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 38
+                },
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 30
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 26
+                },
+                "typography_font_weight": "700",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.2
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "sp0437",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 10
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "tx0438",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Vermiş olduğumuz hizmetlerin yanında ekstra olarak hizmet verdiğimiz alanlar şu şekildedir:</p>",
+                "text_color": "rgba(255,255,255,0.65)",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 16
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 15
+                },
+                "typography_font_weight": "400",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.75
+                }
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "sc0447",
+      "elType": "section",
+      "settings": {
+        "layout": "full_width",
+        "content_width": {
+          "size": 1200,
+          "unit": "px"
+        },
+        "gap": "no",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "32",
+          "bottom": "0",
+          "left": "32",
+          "isLinked": false
+        },
+        "padding_tablet": {
+          "unit": "px",
+          "top": "0",
+          "right": "24",
+          "bottom": "0",
+          "left": "24",
+          "isLinked": false
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "0",
+          "right": "18",
+          "bottom": "0",
+          "left": "18",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#0A1F33"
+      },
+      "elements": [
+        {
+          "id": "cl043b",
+          "elType": "column",
+          "settings": {
+            "_column_size": 20,
+            "_inline_size": 20,
+            "_inline_size_tablet": 50,
+            "_inline_size_mobile": 100,
+            "vertical_align": "top",
+            "padding": {
+              "unit": "px",
+              "top": "24",
+              "right": "20",
+              "bottom": "24",
+              "left": "20",
+              "isLinked": false
+            }
+          },
+          "elements": [
+            {
+              "id": "ib043a",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "settings": {
+                "selected_icon": {
+                  "value": "fas fa-car",
+                  "library": "fa-solid"
+                },
+                "title_text": "Vale & Şoför / Araç Muayene",
+                "description_text": "Vale, şoför ve araç muayene hizmetleri sunarak hayatınızı daha kolay hale getiriyoruz.",
+                "icon_color": "rgba(255,255,255,0.80)",
+                "title_color": "#FFFFFF",
+                "description_color": "rgba(255,255,255,0.60)",
+                "icon_size": {
+                  "unit": "px",
+                  "size": 28
+                },
+                "title_size": "h3",
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Inter Tight",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 18
+                },
+                "title_typography_font_weight": "700",
+                "title_typography_line_height": {
+                  "unit": "em",
+                  "size": 1.25
+                },
+                "description_typography_typography": "custom",
+                "description_typography_font_family": "Inter",
+                "description_typography_font_size": {
+                  "unit": "px",
+                  "size": 14
+                },
+                "description_typography_line_height": {
+                  "unit": "em",
+                  "size": 1.65
+                },
+                "position": "top"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "cl043d",
+          "elType": "column",
+          "settings": {
+            "_column_size": 20,
+            "_inline_size": 20,
+            "_inline_size_tablet": 50,
+            "_inline_size_mobile": 100,
+            "vertical_align": "top",
+            "padding": {
+              "unit": "px",
+              "top": "24",
+              "right": "20",
+              "bottom": "24",
+              "left": "20",
+              "isLinked": false
+            }
+          },
+          "elements": [
+            {
+              "id": "ib043c",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "settings": {
+                "selected_icon": {
+                  "value": "fas fa-shopping-basket",
+                  "library": "fa-solid"
+                },
+                "title_text": "Mağaza ve Market Alışverişi",
+                "description_text": "Kurye kadromuz ile mağaza ve market alışverişlerinizde istekleriniz için yardımcı oluyoruz.",
+                "icon_color": "rgba(255,255,255,0.80)",
+                "title_color": "#FFFFFF",
+                "description_color": "rgba(255,255,255,0.60)",
+                "icon_size": {
+                  "unit": "px",
+                  "size": 28
+                },
+                "title_size": "h3",
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Inter Tight",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 18
+                },
+                "title_typography_font_weight": "700",
+                "title_typography_line_height": {
+                  "unit": "em",
+                  "size": 1.25
+                },
+                "description_typography_typography": "custom",
+                "description_typography_font_family": "Inter",
+                "description_typography_font_size": {
+                  "unit": "px",
+                  "size": 14
+                },
+                "description_typography_line_height": {
+                  "unit": "em",
+                  "size": 1.65
+                },
+                "position": "top"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "cl043f",
+          "elType": "column",
+          "settings": {
+            "_column_size": 20,
+            "_inline_size": 20,
+            "_inline_size_tablet": 50,
+            "_inline_size_mobile": 100,
+            "vertical_align": "top",
+            "padding": {
+              "unit": "px",
+              "top": "24",
+              "right": "20",
+              "bottom": "24",
+              "left": "20",
+              "isLinked": false
+            }
+          },
+          "elements": [
+            {
+              "id": "ib043e",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "settings": {
+                "selected_icon": {
+                  "value": "fas fa-truck-moving",
+                  "library": "fa-solid"
+                },
+                "title_text": "Ev Nakliyesi (Büyük Araç)",
+                "description_text": "Ev nakliyesi gibi durumlarda büyük araç ile nakliye sorunlarına uygun fiyatlarla çözüm getiriyoruz.",
+                "icon_color": "rgba(255,255,255,0.80)",
+                "title_color": "#FFFFFF",
+                "description_color": "rgba(255,255,255,0.60)",
+                "icon_size": {
+                  "unit": "px",
+                  "size": 28
+                },
+                "title_size": "h3",
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Inter Tight",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 18
+                },
+                "title_typography_font_weight": "700",
+                "title_typography_line_height": {
+                  "unit": "em",
+                  "size": 1.25
+                },
+                "description_typography_typography": "custom",
+                "description_typography_font_family": "Inter",
+                "description_typography_font_size": {
+                  "unit": "px",
+                  "size": 14
+                },
+                "description_typography_line_height": {
+                  "unit": "em",
+                  "size": 1.65
+                },
+                "position": "top"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "sc0448",
+      "elType": "section",
+      "settings": {
+        "layout": "full_width",
+        "content_width": {
+          "size": 1200,
+          "unit": "px"
+        },
+        "gap": "no",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "32",
+          "bottom": "0",
+          "left": "32",
+          "isLinked": false
+        },
+        "padding_tablet": {
+          "unit": "px",
+          "top": "0",
+          "right": "24",
+          "bottom": "0",
+          "left": "24",
+          "isLinked": false
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "0",
+          "right": "18",
+          "bottom": "0",
+          "left": "18",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#0A1F33"
+      },
+      "elements": [
+        {
+          "id": "cl0441",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_inline_size": 25,
+            "_inline_size_tablet": 50,
+            "_inline_size_mobile": 100,
+            "vertical_align": "top",
+            "padding": {
+              "unit": "px",
+              "top": "24",
+              "right": "20",
+              "bottom": "24",
+              "left": "20",
+              "isLinked": false
+            }
+          },
+          "elements": [
+            {
+              "id": "ib0440",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "settings": {
+                "selected_icon": {
+                  "value": "fas fa-boxes",
+                  "library": "fa-solid"
+                },
+                "title_text": "Toplu Dağıtım Günlük Kurye",
+                "description_text": "Toplu dağıtım kuryelerimizle tüm ürünlerin gün içinde dağıtılmasını sağlıyoruz.",
+                "icon_color": "rgba(255,255,255,0.80)",
+                "title_color": "#FFFFFF",
+                "description_color": "rgba(255,255,255,0.60)",
+                "icon_size": {
+                  "unit": "px",
+                  "size": 28
+                },
+                "title_size": "h3",
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Inter Tight",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 18
+                },
+                "title_typography_font_weight": "700",
+                "title_typography_line_height": {
+                  "unit": "em",
+                  "size": 1.25
+                },
+                "description_typography_typography": "custom",
+                "description_typography_font_family": "Inter",
+                "description_typography_font_size": {
+                  "unit": "px",
+                  "size": 14
+                },
+                "description_typography_line_height": {
+                  "unit": "em",
+                  "size": 1.65
+                },
+                "position": "top"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "cl0443",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_inline_size": 25,
+            "_inline_size_tablet": 50,
+            "_inline_size_mobile": 100,
+            "vertical_align": "top",
+            "padding": {
+              "unit": "px",
+              "top": "24",
+              "right": "20",
+              "bottom": "24",
+              "left": "20",
+              "isLinked": false
+            }
+          },
+          "elements": [
+            {
+              "id": "ib0442",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "settings": {
+                "selected_icon": {
+                  "value": "fas fa-truck-pickup",
+                  "library": "fa-solid"
+                },
+                "title_text": "7/24 Çekici Hizmetleri",
+                "description_text": "7/24 çekici hizmeti sunarak yolda kaldığınız durumlarda hızlı şekilde destek sağlıyoruz.",
+                "icon_color": "rgba(255,255,255,0.80)",
+                "title_color": "#FFFFFF",
+                "description_color": "rgba(255,255,255,0.60)",
+                "icon_size": {
+                  "unit": "px",
+                  "size": 28
+                },
+                "title_size": "h3",
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Inter Tight",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 18
+                },
+                "title_typography_font_weight": "700",
+                "title_typography_line_height": {
+                  "unit": "em",
+                  "size": 1.25
+                },
+                "description_typography_typography": "custom",
+                "description_typography_font_family": "Inter",
+                "description_typography_font_size": {
+                  "unit": "px",
+                  "size": 14
+                },
+                "description_typography_line_height": {
+                  "unit": "em",
+                  "size": 1.65
+                },
+                "position": "top"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "cl0444",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_inline_size": 25,
+            "_inline_size_tablet": 50,
+            "_inline_size_mobile": 100,
+            "vertical_align": "top"
+          },
+          "elements": [],
+          "isInner": false
+        },
+        {
+          "id": "cl0445",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_inline_size": 25,
+            "_inline_size_tablet": 50,
+            "_inline_size_mobile": 100,
+            "vertical_align": "top"
+          },
+          "elements": [],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "sc044a",
+      "elType": "section",
+      "settings": {
+        "layout": "full_width",
+        "content_width": {
+          "size": 1200,
+          "unit": "px"
+        },
+        "gap": "no",
+        "padding": {
+          "unit": "px",
+          "top": "40",
+          "right": "0",
+          "bottom": "40",
+          "left": "0",
+          "isLinked": false
+        },
+        "padding_tablet": {
+          "unit": "px",
+          "top": "30",
+          "right": "24",
+          "bottom": "30",
+          "left": "24",
+          "isLinked": false
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "24",
+          "right": "18",
+          "bottom": "24",
+          "left": "18",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#0A1F33"
+      },
+      "elements": [
+        {
+          "id": "cl0449",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": 100,
+            "_inline_size_tablet": 100,
+            "_inline_size_mobile": 100,
+            "vertical_align": "top"
+          },
+          "elements": [],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "sc045d",
+      "elType": "section",
+      "settings": {
+        "layout": "full_width",
+        "content_width": {
+          "size": 1200,
+          "unit": "px"
+        },
+        "gap": "no",
+        "padding": {
+          "unit": "px",
+          "top": "80",
+          "right": "32",
+          "bottom": "80",
+          "left": "32",
+          "isLinked": false
+        },
+        "padding_tablet": {
+          "unit": "px",
+          "top": "60",
+          "right": "24",
+          "bottom": "60",
+          "left": "24",
+          "isLinked": false
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "48",
+          "right": "18",
+          "bottom": "48",
+          "left": "18",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#FFFFFF"
+      },
+      "elements": [
+        {
+          "id": "cl0456",
+          "elType": "column",
+          "settings": {
+            "_column_size": 55,
+            "_inline_size": 55,
+            "_inline_size_tablet": 100,
+            "_inline_size_mobile": 100,
+            "vertical_align": "middle",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "48",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            }
+          },
+          "elements": [
+            {
+              "id": "tx044b",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p style=\"margin:0;\"><span style=\"display:inline-block;background:#E8F0FE;color:#0D59F2;font-family:Inter;font-size:11px;font-weight:600;letter-spacing:1.4px;text-transform:uppercase;padding:5px 12px;border-radius:4px;\">SÜRECİ ÖĞRENIN</span></p>",
+                "text_color": "#0D59F2",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 11
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 15
+                },
+                "typography_font_weight": "600",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.75
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "sp044c",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 16
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "hd044d",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Acil Kurye Hizmeti Almak İçin Ne Yapmak Gerekiyor?",
+                "header_size": "h2",
+                "align": "left",
+                "title_color": "#0A1F33",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter Tight",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 36
+                },
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 28
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 26
+                },
+                "typography_font_weight": "700",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.2
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "sp044e",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 20
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "tx044f",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Acil kurye hizmetlerimizden yararlanma süreci oldukça basittir. Öncelik olarak gönderinizin boyutunu ve teslimat noktalarını belirtmeniz yeterlidir. Bu bilgiler tarafımıza ulaştıktan sonra sizlere en yakın kuryeyi yönlendirecek ve gönderilerinizi en kısa sürede teslim aldırtacağız.</p>",
+                "text_color": "#5A6A7A",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 16
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 15
+                },
+                "typography_font_weight": "400",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.75
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "sp0450",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 16
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "tx0451",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Hızlı kurye hizmetlerimizi toplantıya yetişmesi gereken evraklarda, yedek parçalarda, unutulan doğum günü hediyelerinde ve daha birçok alanda kullanabilirsiniz. İstanbul moto kurye kadromuz şehrin her tarafını bilen uzman kişilerden oluştuğu için teslimat süresi minimuma inecektir.</p>",
+                "text_color": "#5A6A7A",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 16
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 15
+                },
+                "typography_font_weight": "400",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.75
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "sp0452",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 16
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "tx0453",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>İstanbul moto kurye fiyatları politikamız ise taşınacak gönderinin boyutuna, ağırlığına ve mesafeye göre değişkenlik göstermektedir. Ancak her zaman uygun fiyatlı hizmet vermeye özen gösteriyoruz.</p>",
+                "text_color": "#5A6A7A",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 16
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 15
+                },
+                "typography_font_weight": "400",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.75
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "sp0454",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 32
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "bt0455",
+              "elType": "widget",
+              "widgetType": "button",
+              "settings": {
+                "text": "Hizmet Alın",
+                "link": {
+                  "url": "tel:+905322079609",
+                  "is_external": false,
+                  "nofollow": false
+                },
+                "align": "left",
+                "size": "lg",
+                "background_color": "#0D59F2",
+                "button_text_color": "#FFFFFF",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "6",
+                  "right": "6",
+                  "bottom": "6",
+                  "left": "6",
+                  "isLinked": true
+                },
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 15
+                },
+                "typography_font_weight": "600",
+                "button_hover_background_color": "#0946C5",
+                "button_hover_color": "#FFFFFF"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "cl045c",
+          "elType": "column",
+          "settings": {
+            "_column_size": 45,
+            "_inline_size": 45,
+            "_inline_size_tablet": 100,
+            "_inline_size_mobile": 100,
+            "vertical_align": "middle",
+            "padding": {
+              "unit": "px",
+              "top": "40",
+              "right": "40",
+              "bottom": "40",
+              "left": "40",
+              "isLinked": false
+            },
+            "background_background": "classic",
+            "background_color": "#F0F5FF"
+          },
+          "elements": [
+            {
+              "id": "hd0457",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "3 Adımda Kurye Çağırın",
+                "header_size": "h3",
+                "align": "left",
+                "title_color": "#0A1F33",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter Tight",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 22
+                },
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 26
+                },
+                "typography_font_weight": "700",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.2
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "sp0458",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 24
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "tx0459",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<div style=\"display:flex;gap:16px;align-items:flex-start;margin-bottom:20px;\"><span style=\"min-width:36px;height:36px;background:#0D59F2;color:#fff;font-family:Inter Tight;font-size:16px;font-weight:700;border-radius:6px;display:flex;align-items:center;justify-content:center;\">1</span><div><p style=\"margin:0 0 4px;font-family:Inter Tight;font-size:16px;font-weight:700;color:#0A1F33;\">Bize Ulaşın</p><p style=\"margin:0;font-family:Inter;font-size:14px;color:#5A6A7A;line-height:1.6;\">Telefon veya WhatsApp ile iletişime geçin.</p></div></div>",
+                "text_color": "#0A1F33",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 15
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 15
+                },
+                "typography_font_weight": "400",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.75
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "tx045a",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<div style=\"display:flex;gap:16px;align-items:flex-start;margin-bottom:20px;\"><span style=\"min-width:36px;height:36px;background:#0D59F2;color:#fff;font-family:Inter Tight;font-size:16px;font-weight:700;border-radius:6px;display:flex;align-items:center;justify-content:center;\">2</span><div><p style=\"margin:0 0 4px;font-family:Inter Tight;font-size:16px;font-weight:700;color:#0A1F33;\">Gönderinizi Bildirin</p><p style=\"margin:0;font-family:Inter;font-size:14px;color:#5A6A7A;line-height:1.6;\">Boyut, ağırlık ve teslimat noktasını iletin.</p></div></div>",
+                "text_color": "#0A1F33",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 15
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 15
+                },
+                "typography_font_weight": "400",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.75
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "tx045b",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<div style=\"display:flex;gap:16px;align-items:flex-start;margin-bottom:20px;\"><span style=\"min-width:36px;height:36px;background:#0D59F2;color:#fff;font-family:Inter Tight;font-size:16px;font-weight:700;border-radius:6px;display:flex;align-items:center;justify-content:center;\">3</span><div><p style=\"margin:0 0 4px;font-family:Inter Tight;font-size:16px;font-weight:700;color:#0A1F33;\">Kuryeniz Yola Çıksın</p><p style=\"margin:0;font-family:Inter;font-size:14px;color:#5A6A7A;line-height:1.6;\">En yakın kurye gönderinizi teslim alır.</p></div></div>",
+                "text_color": "#0A1F33",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 15
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 15
+                },
+                "typography_font_weight": "400",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.75
+                }
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "sc0468",
+      "elType": "section",
+      "settings": {
+        "layout": "full_width",
+        "content_width": {
+          "size": 1200,
+          "unit": "px"
+        },
+        "gap": "no",
+        "padding": {
+          "unit": "px",
+          "top": "72",
+          "right": "32",
+          "bottom": "72",
+          "left": "32",
+          "isLinked": false
+        },
+        "padding_tablet": {
+          "unit": "px",
+          "top": "54",
+          "right": "24",
+          "bottom": "54",
+          "left": "24",
+          "isLinked": false
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "43",
+          "right": "18",
+          "bottom": "43",
+          "left": "18",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#F0F5FF"
+      },
+      "elements": [
+        {
+          "id": "cl0461",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": 100,
+            "_inline_size_tablet": 100,
+            "_inline_size_mobile": 100,
+            "vertical_align": "top",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "36",
+              "left": "0",
+              "isLinked": false
+            }
+          },
+          "elements": [
+            {
+              "id": "tx045e",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p style=\"margin:0;\"><span style=\"display:inline-block;background:#E8F0FE;color:#0D59F2;font-family:Inter;font-size:11px;font-weight:600;letter-spacing:1.4px;text-transform:uppercase;padding:5px 12px;border-radius:4px;\">AVANTAJLAR</span></p>",
+                "text_color": "#0D59F2",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 11
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 15
+                },
+                "typography_font_weight": "600",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.75
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "sp045f",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 14
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "hd0460",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Neler Kazanacaksınız?",
+                "header_size": "h2",
+                "align": "left",
+                "title_color": "#0A1F33",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter Tight",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 38
+                },
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 30
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 26
+                },
+                "typography_font_weight": "700",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.2
+                }
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "cl0463",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_inline_size": 33,
+            "_inline_size_tablet": 50,
+            "_inline_size_mobile": 100,
+            "vertical_align": "top",
+            "padding": {
+              "unit": "px",
+              "top": "32",
+              "right": "28",
+              "bottom": "32",
+              "left": "28",
+              "isLinked": false
+            }
+          },
+          "elements": [
+            {
+              "id": "ib0462",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "settings": {
+                "selected_icon": {
+                  "value": "fas fa-bolt",
+                  "library": "fa-solid"
+                },
+                "title_text": "Acil Hizmet İçin En İyi Çözüm",
+                "description_text": "Acil gönderileriniz için öncelikli ve hızlı teslimat imkanı sunarak en iyi çözümleri sunuyoruz.",
+                "icon_color": "#0D59F2",
+                "title_color": "#0A1F33",
+                "description_color": "#5A6A7A",
+                "icon_size": {
+                  "unit": "px",
+                  "size": 28
+                },
+                "title_size": "h3",
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Inter Tight",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 18
+                },
+                "title_typography_font_weight": "700",
+                "title_typography_line_height": {
+                  "unit": "em",
+                  "size": 1.25
+                },
+                "description_typography_typography": "custom",
+                "description_typography_font_family": "Inter",
+                "description_typography_font_size": {
+                  "unit": "px",
+                  "size": 14
+                },
+                "description_typography_line_height": {
+                  "unit": "em",
+                  "size": 1.65
+                },
+                "position": "top"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "cl0465",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_inline_size": 33,
+            "_inline_size_tablet": 50,
+            "_inline_size_mobile": 100,
+            "vertical_align": "top",
+            "padding": {
+              "unit": "px",
+              "top": "32",
+              "right": "28",
+              "bottom": "32",
+              "left": "28",
+              "isLinked": false
+            }
+          },
+          "elements": [
+            {
+              "id": "ib0464",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "settings": {
+                "selected_icon": {
+                  "value": "fas fa-users",
+                  "library": "fa-solid"
+                },
+                "title_text": "Uzman Kadro İle Çalışma Avantajı",
+                "description_text": "Firmamız bünyesinde uzman kadroyu bulundurarak müşterilerimizin en iyi hizmetlerimizden yararlanmalarını sağlıyoruz.",
+                "icon_color": "#0D59F2",
+                "title_color": "#0A1F33",
+                "description_color": "#5A6A7A",
+                "icon_size": {
+                  "unit": "px",
+                  "size": 28
+                },
+                "title_size": "h3",
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Inter Tight",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 18
+                },
+                "title_typography_font_weight": "700",
+                "title_typography_line_height": {
+                  "unit": "em",
+                  "size": 1.25
+                },
+                "description_typography_typography": "custom",
+                "description_typography_font_family": "Inter",
+                "description_typography_font_size": {
+                  "unit": "px",
+                  "size": 14
+                },
+                "description_typography_line_height": {
+                  "unit": "em",
+                  "size": 1.65
+                },
+                "position": "top"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "cl0467",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_inline_size": 33,
+            "_inline_size_tablet": 50,
+            "_inline_size_mobile": 100,
+            "vertical_align": "top",
+            "padding": {
+              "unit": "px",
+              "top": "32",
+              "right": "28",
+              "bottom": "32",
+              "left": "28",
+              "isLinked": false
+            }
+          },
+          "elements": [
+            {
+              "id": "ib0466",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "settings": {
+                "selected_icon": {
+                  "value": "fas fa-star",
+                  "library": "fa-solid"
+                },
+                "title_text": "Özel Teslimat Kolaylığı",
+                "description_text": "Özel teslimat kolaylığı sayesinde herkes kişiye özel kurye hizmetine sahip oldu.",
+                "icon_color": "#0D59F2",
+                "title_color": "#0A1F33",
+                "description_color": "#5A6A7A",
+                "icon_size": {
+                  "unit": "px",
+                  "size": 28
+                },
+                "title_size": "h3",
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Inter Tight",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 18
+                },
+                "title_typography_font_weight": "700",
+                "title_typography_line_height": {
+                  "unit": "em",
+                  "size": 1.25
+                },
+                "description_typography_typography": "custom",
+                "description_typography_font_family": "Inter",
+                "description_typography_font_size": {
+                  "unit": "px",
+                  "size": 14
+                },
+                "description_typography_line_height": {
+                  "unit": "em",
+                  "size": 1.65
+                },
+                "position": "top"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "sc046f",
+      "elType": "section",
+      "settings": {
+        "layout": "full_width",
+        "content_width": {
+          "size": 1200,
+          "unit": "px"
+        },
+        "gap": "no",
+        "padding": {
+          "unit": "px",
+          "top": "80",
+          "right": "32",
+          "bottom": "80",
+          "left": "32",
+          "isLinked": false
+        },
+        "padding_tablet": {
+          "unit": "px",
+          "top": "60",
+          "right": "24",
+          "bottom": "60",
+          "left": "24",
+          "isLinked": false
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "48",
+          "right": "18",
+          "bottom": "48",
+          "left": "18",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#0A1F33"
+      },
+      "elements": [
+        {
+          "id": "cl046e",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": 100,
+            "_inline_size_tablet": 100,
+            "_inline_size_mobile": 100,
+            "vertical_align": "top",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "100",
+              "bottom": "0",
+              "left": "100",
+              "isLinked": false
+            }
+          },
+          "elements": [
+            {
+              "id": "hd0469",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "30 Dakika İçinde Kuryeniz Kapınızda Olsun!",
+                "header_size": "h2",
+                "align": "center",
+                "title_color": "#FFFFFF",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter Tight",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 40
+                },
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 32
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 28
+                },
+                "typography_font_weight": "700",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.2
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "sp046a",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 18
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "tx046b",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p style='text-align:center;'>Hemen kuryenizi çağırın, kapıdan kapıya güvenli teslimatın keyfini sürün.</p>",
+                "text_color": "rgba(255,255,255,0.75)",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 18
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 15
+                },
+                "typography_font_weight": "400",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.75
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "sp046c",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 36
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "tb046d",
+              "elType": "widget",
+              "widgetType": "button",
+              "settings": {
+                "text": "Kurye Çağırın",
+                "link": {
+                  "url": "tel:+905322079609",
+                  "is_external": false
+                },
+                "align": "center",
+                "size": "xl",
+                "background_color": "#0D59F2",
+                "button_text_color": "#FFFFFF",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "6",
+                  "right": "6",
+                  "bottom": "6",
+                  "left": "6",
+                  "isLinked": true
+                },
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17
+                },
+                "typography_font_weight": "700",
+                "button_hover_background_color": "#0946C5"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "sc0476",
+      "elType": "section",
+      "settings": {
+        "layout": "full_width",
+        "content_width": {
+          "size": 1200,
+          "unit": "px"
+        },
+        "gap": "no",
+        "padding": {
+          "unit": "px",
+          "top": "50",
+          "right": "32",
+          "bottom": "50",
+          "left": "32",
+          "isLinked": false
+        },
+        "padding_tablet": {
+          "unit": "px",
+          "top": "37",
+          "right": "24",
+          "bottom": "37",
+          "left": "24",
+          "isLinked": false
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "30",
+          "right": "18",
+          "bottom": "30",
+          "left": "18",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#0D59F2"
+      },
+      "elements": [
+        {
+          "id": "cl0473",
+          "elType": "column",
+          "settings": {
+            "_column_size": 70,
+            "_inline_size": 70,
+            "_inline_size_tablet": 100,
+            "_inline_size_mobile": 100,
+            "vertical_align": "middle"
+          },
+          "elements": [
+            {
+              "id": "hd0470",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Teslimatlar İçin Doğru Adres: Aksoylar Kurye",
+                "header_size": "h2",
+                "align": "left",
+                "title_color": "#FFFFFF",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter Tight",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 28
+                },
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 22
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 26
+                },
+                "typography_font_weight": "700",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.25
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "sp0471",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 10
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "tx0472",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Acil gönderileriniz için dakikalar içerisinde harekete geçiyoruz.</p>",
+                "text_color": "rgba(255,255,255,0.80)",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 16
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 15
+                },
+                "typography_font_weight": "400",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.75
+                }
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "cl0475",
+          "elType": "column",
+          "settings": {
+            "_column_size": 30,
+            "_inline_size": 30,
+            "_inline_size_tablet": 100,
+            "_inline_size_mobile": 100,
+            "vertical_align": "middle"
+          },
+          "elements": [
+            {
+              "id": "bt0474",
+              "elType": "widget",
+              "widgetType": "button",
+              "settings": {
+                "text": "Hemen İletişime Geçin",
+                "link": {
+                  "url": "tel:+905322079609",
+                  "is_external": false
+                },
+                "align": "right",
+                "align_tablet": "left",
+                "size": "lg",
+                "background_color": "#0A1F33",
+                "button_text_color": "#FFFFFF",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "6",
+                  "right": "6",
+                  "bottom": "6",
+                  "left": "6",
+                  "isLinked": true
+                },
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 15
+                },
+                "typography_font_weight": "700",
+                "button_hover_background_color": "#0A1520"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    }
+  ]
+}

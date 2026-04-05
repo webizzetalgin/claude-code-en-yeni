@@ -1,0 +1,1278 @@
+{
+  "title": "İnternasyonel VIP Transfer - Hizmet Sayfası",
+  "type": "page",
+  "version": "0.4",
+  "page_settings": {
+    "hide_title": "yes",
+    "template": "elementor_canvas"
+  },
+  "content": [
+    {
+      "id": "a1b2c3d4",
+      "elType": "section",
+      "settings": {
+        "layout": "full_width",
+        "content_width": { "size": 1140, "unit": "px" },
+        "gap": "no",
+        "padding": { "unit": "px", "top": "100", "right": "0", "bottom": "100", "left": "0", "isLinked": false },
+        "padding_tablet": { "unit": "px", "top": "70", "right": "20", "bottom": "70", "left": "20", "isLinked": false },
+        "padding_mobile": { "unit": "px", "top": "50", "right": "16", "bottom": "50", "left": "16", "isLinked": false },
+        "background_background": "classic",
+        "background_color": "#0D1B2A"
+      },
+      "elements": [
+        {
+          "id": "b2c3d4e5",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": 50,
+            "_inline_size_tablet": 100,
+            "_inline_size_mobile": 100,
+            "padding": { "unit": "px", "top": "0", "right": "40", "bottom": "0", "left": "20", "isLinked": false },
+            "padding_tablet": { "unit": "px", "top": "0", "right": "15", "bottom": "30", "left": "15", "isLinked": false },
+            "padding_mobile": { "unit": "px", "top": "0", "right": "0", "bottom": "30", "left": "0", "isLinked": false },
+            "vertical_align": "middle"
+          },
+          "elements": [
+            {
+              "id": "c3d4e5f6",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Yolun First Class'ı, Transferin Ötesi</p>",
+                "align": "left",
+                "align_tablet": "center",
+                "align_mobile": "center",
+                "text_color": "#007BFF",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": { "unit": "px", "size": 13 },
+                "typography_font_size_tablet": { "unit": "px", "size": 13 },
+                "typography_font_size_mobile": { "unit": "px", "size": 13 },
+                "typography_font_weight": "600",
+                "typography_letter_spacing": { "unit": "px", "size": 1.5 },
+                "typography_line_height": { "unit": "em", "size": 1.5 }
+              },
+              "elements": []
+            },
+            {
+              "id": "d4e5f6a7",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": { "unit": "px", "size": 12 },
+                "space_tablet": { "unit": "px", "size": 10 },
+                "space_mobile": { "unit": "px", "size": 8 }
+              },
+              "elements": []
+            },
+            {
+              "id": "e5f6a7b8",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "İstanbul'da Transferin Premium Adresi",
+                "header_size": "h1",
+                "align": "left",
+                "align_tablet": "center",
+                "align_mobile": "center",
+                "title_color": "#FFFFFF",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": { "unit": "px", "size": 46 },
+                "typography_font_size_tablet": { "unit": "px", "size": 36 },
+                "typography_font_size_mobile": { "unit": "px", "size": 28 },
+                "typography_font_weight": "800",
+                "typography_line_height": { "unit": "em", "size": 1.2 }
+              },
+              "elements": []
+            },
+            {
+              "id": "f6a7b8c9",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": { "unit": "px", "size": 20 },
+                "space_tablet": { "unit": "px", "size": 16 },
+                "space_mobile": { "unit": "px", "size": 12 }
+              },
+              "elements": []
+            },
+            {
+              "id": "a7b8c9d0",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Vip Transfer Hizmeti - Uzman Şoför Kusursuz Yolculuk</p>",
+                "align": "left",
+                "align_tablet": "center",
+                "align_mobile": "center",
+                "text_color": "#A0AEC0",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": { "unit": "px", "size": 18 },
+                "typography_font_size_tablet": { "unit": "px", "size": 16 },
+                "typography_font_size_mobile": { "unit": "px", "size": 15 },
+                "typography_font_weight": "400",
+                "typography_line_height": { "unit": "em", "size": 1.7 }
+              },
+              "elements": []
+            },
+            {
+              "id": "b8c9d0e1",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": { "unit": "px", "size": 32 },
+                "space_tablet": { "unit": "px", "size": 24 },
+                "space_mobile": { "unit": "px", "size": 20 }
+              },
+              "elements": []
+            },
+            {
+              "id": "c9d0e1f2",
+              "elType": "widget",
+              "widgetType": "button",
+              "settings": {
+                "text": "Hemen Ara",
+                "link": { "url": "tel:+905333792232", "is_external": false, "nofollow": false },
+                "align": "left",
+                "align_tablet": "center",
+                "align_mobile": "center",
+                "size": "lg",
+                "background_color": "#007BFF",
+                "button_text_color": "#FFFFFF",
+                "border_radius": { "unit": "px", "top": "6", "right": "6", "bottom": "6", "left": "6", "isLinked": true },
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": { "unit": "px", "size": 16 },
+                "typography_font_weight": "600",
+                "button_hover_background_color": "#0056CC",
+                "button_hover_color": "#FFFFFF"
+              },
+              "elements": []
+            },
+            {
+              "id": "d0e1f2a3",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": { "unit": "px", "size": 12 },
+                "space_tablet": { "unit": "px", "size": 10 },
+                "space_mobile": { "unit": "px", "size": 8 }
+              },
+              "elements": []
+            },
+            {
+              "id": "e1f2a3b4",
+              "elType": "widget",
+              "widgetType": "button",
+              "settings": {
+                "text": "WhatsApp Destek",
+                "link": { "url": "#", "is_external": false, "nofollow": false },
+                "align": "left",
+                "align_tablet": "center",
+                "align_mobile": "center",
+                "size": "lg",
+                "background_color": "rgba(255,255,255,0)",
+                "button_text_color": "#FFFFFF",
+                "border_border": "solid",
+                "border_width": { "unit": "px", "top": "2", "right": "2", "bottom": "2", "left": "2", "isLinked": true },
+                "border_color": "rgba(255,255,255,0.4)",
+                "border_radius": { "unit": "px", "top": "6", "right": "6", "bottom": "6", "left": "6", "isLinked": true },
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": { "unit": "px", "size": 16 },
+                "typography_font_weight": "600",
+                "button_hover_background_color": "rgba(255,255,255,0.1)",
+                "button_hover_color": "#FFFFFF"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "f2a3b4c5",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": 50,
+            "_inline_size_tablet": 100,
+            "_inline_size_mobile": 100,
+            "padding": { "unit": "px", "top": "30", "right": "20", "bottom": "30", "left": "40", "isLinked": false },
+            "padding_tablet": { "unit": "px", "top": "30", "right": "15", "bottom": "0", "left": "15", "isLinked": false },
+            "padding_mobile": { "unit": "px", "top": "20", "right": "0", "bottom": "0", "left": "0", "isLinked": false },
+            "vertical_align": "middle",
+            "background_background": "classic",
+            "background_color": "rgba(255,255,255,0.06)",
+            "border_radius": { "unit": "px", "top": "16", "right": "16", "bottom": "16", "left": "16", "isLinked": true }
+          },
+          "elements": [
+            {
+              "id": "a3b4c5d6",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "settings": {
+                "selected_icon": { "value": "fas fa-users", "library": "fa-solid" },
+                "title_text": "297+ Kişi",
+                "description_text": "Rezervasyon yaparak aracı ve şoförü önceden planladı. Böylece geç kalma riski azaldı, sorunsuz şekilde ulaşım sağladı.",
+                "icon_color": "#007BFF",
+                "title_color": "#FFFFFF",
+                "description_color": "#A0AEC0",
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Inter",
+                "title_typography_font_size": { "unit": "px", "size": 20 },
+                "title_typography_font_weight": "700"
+              },
+              "elements": []
+            },
+            {
+              "id": "b4c5d6e7",
+              "elType": "widget",
+              "widgetType": "divider",
+              "settings": {
+                "style": "solid",
+                "weight": { "unit": "px", "size": 1 },
+                "width": { "unit": "%", "size": 100 },
+                "color": "rgba(255,255,255,0.1)",
+                "align": "center",
+                "gap": { "unit": "px", "size": 16 }
+              },
+              "elements": []
+            },
+            {
+              "id": "c5d6e7f8",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "settings": {
+                "selected_icon": { "value": "fas fa-calendar-check", "library": "fa-solid" },
+                "title_text": "102+ Kişi",
+                "description_text": "Özellikle sezonluk yoğunluklarda erken rezervasyon yaparak araç bulamama riskini ortadan kaldırdı.",
+                "icon_color": "#007BFF",
+                "title_color": "#FFFFFF",
+                "description_color": "#A0AEC0",
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Inter",
+                "title_typography_font_size": { "unit": "px", "size": 20 },
+                "title_typography_font_weight": "700"
+              },
+              "elements": []
+            },
+            {
+              "id": "d6e7f8a9",
+              "elType": "widget",
+              "widgetType": "divider",
+              "settings": {
+                "style": "solid",
+                "weight": { "unit": "px", "size": 1 },
+                "width": { "unit": "%", "size": 100 },
+                "color": "rgba(255,255,255,0.1)",
+                "align": "center",
+                "gap": { "unit": "px", "size": 16 }
+              },
+              "elements": []
+            },
+            {
+              "id": "e7f8a9b0",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "settings": {
+                "selected_icon": { "value": "fas fa-route", "library": "fa-solid" },
+                "title_text": "148+ Kişi",
+                "description_text": "Nereden alınacağı, nereye bırakılacağı ve saat bilgilerini önceden belirleyerek ulaşım sürecinde belirsizlik yaşamadı.",
+                "icon_color": "#007BFF",
+                "title_color": "#FFFFFF",
+                "description_color": "#A0AEC0",
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Inter",
+                "title_typography_font_size": { "unit": "px", "size": 20 },
+                "title_typography_font_weight": "700"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "f8a9b0c1",
+      "elType": "section",
+      "settings": {
+        "layout": "boxed",
+        "content_width": { "size": 1140, "unit": "px" },
+        "gap": "default",
+        "padding": { "unit": "px", "top": "80", "right": "0", "bottom": "80", "left": "0", "isLinked": false },
+        "padding_tablet": { "unit": "px", "top": "60", "right": "20", "bottom": "60", "left": "20", "isLinked": false },
+        "padding_mobile": { "unit": "px", "top": "40", "right": "16", "bottom": "40", "left": "16", "isLinked": false },
+        "background_background": "classic",
+        "background_color": "#FFFFFF"
+      },
+      "elements": [
+        {
+          "id": "a9b0c1d2",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": 50,
+            "_inline_size_tablet": 100,
+            "_inline_size_mobile": 100,
+            "padding": { "unit": "px", "top": "0", "right": "40", "bottom": "0", "left": "0", "isLinked": false },
+            "padding_tablet": { "unit": "px", "top": "0", "right": "0", "bottom": "30", "left": "0", "isLinked": false },
+            "padding_mobile": { "unit": "px", "top": "0", "right": "0", "bottom": "24", "left": "0", "isLinked": false },
+            "vertical_align": "middle"
+          },
+          "elements": [
+            {
+              "id": "b0c1d2e3",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "İstanbul Vip Transfer",
+                "header_size": "h2",
+                "align": "left",
+                "align_tablet": "center",
+                "align_mobile": "center",
+                "title_color": "#222222",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": { "unit": "px", "size": 36 },
+                "typography_font_size_tablet": { "unit": "px", "size": 28 },
+                "typography_font_size_mobile": { "unit": "px", "size": 24 },
+                "typography_font_weight": "700",
+                "typography_line_height": { "unit": "em", "size": 1.3 }
+              },
+              "elements": []
+            },
+            {
+              "id": "c1d2e3f4",
+              "elType": "widget",
+              "widgetType": "divider",
+              "settings": {
+                "style": "solid",
+                "weight": { "unit": "px", "size": 3 },
+                "width": { "unit": "%", "size": 12 },
+                "color": "#007BFF",
+                "align": "left",
+                "gap": { "unit": "px", "size": 20 }
+              },
+              "elements": []
+            },
+            {
+              "id": "d2e3f4a5",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": { "unit": "px", "size": 20 },
+                "space_tablet": { "unit": "px", "size": 16 },
+                "space_mobile": { "unit": "px", "size": 12 }
+              },
+              "elements": []
+            },
+            {
+              "id": "e3f4a5b6",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>İstanbul vip transfer hizmetini bir zorunluluktan çıkarıp keyifli bir ayrıcalığa dönüştürüyoruz. Her detayı müşterilerimizin konforunu düşünerek hazırlıyoruz.</p>",
+                "align": "left",
+                "align_tablet": "center",
+                "align_mobile": "center",
+                "text_color": "#555555",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": { "unit": "px", "size": 16 },
+                "typography_font_size_tablet": { "unit": "px", "size": 15 },
+                "typography_font_size_mobile": { "unit": "px", "size": 14 },
+                "typography_line_height": { "unit": "em", "size": 1.7 }
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "f4a5b6c7",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": 50,
+            "_inline_size_tablet": 100,
+            "_inline_size_mobile": 100,
+            "padding": { "unit": "px", "top": "0", "right": "0", "bottom": "0", "left": "20", "isLinked": false },
+            "padding_tablet": { "unit": "px", "top": "0", "right": "0", "bottom": "0", "left": "0", "isLinked": false },
+            "padding_mobile": { "unit": "px", "top": "0", "right": "0", "bottom": "0", "left": "0", "isLinked": false },
+            "vertical_align": "middle"
+          },
+          "elements": [
+            {
+              "id": "a5b6c7d8",
+              "elType": "widget",
+              "widgetType": "image",
+              "settings": {
+                "image": { "url": "https://placehold.co/600x400/0D1B2A/007BFF?text=VIP+Transfer", "id": "" },
+                "image_size": "full",
+                "align": "center",
+                "width": { "unit": "%", "size": 100 },
+                "border_radius": { "unit": "px", "top": "12", "right": "12", "bottom": "12", "left": "12", "isLinked": true }
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "b6c7d8e9",
+      "elType": "section",
+      "settings": {
+        "layout": "boxed",
+        "content_width": { "size": 1140, "unit": "px" },
+        "gap": "default",
+        "padding": { "unit": "px", "top": "80", "right": "0", "bottom": "40", "left": "0", "isLinked": false },
+        "padding_tablet": { "unit": "px", "top": "60", "right": "20", "bottom": "30", "left": "20", "isLinked": false },
+        "padding_mobile": { "unit": "px", "top": "40", "right": "16", "bottom": "20", "left": "16", "isLinked": false },
+        "background_background": "classic",
+        "background_color": "#F8F9FA"
+      },
+      "elements": [
+        {
+          "id": "c7d8e9f0",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": 100,
+            "padding": { "unit": "px", "top": "0", "right": "0", "bottom": "0", "left": "0", "isLinked": true }
+          },
+          "elements": [
+            {
+              "id": "d8e9f0a1",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Hizmetler",
+                "header_size": "h2",
+                "align": "center",
+                "title_color": "#222222",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": { "unit": "px", "size": 36 },
+                "typography_font_size_tablet": { "unit": "px", "size": 28 },
+                "typography_font_size_mobile": { "unit": "px", "size": 24 },
+                "typography_font_weight": "700",
+                "typography_line_height": { "unit": "em", "size": 1.3 }
+              },
+              "elements": []
+            },
+            {
+              "id": "e9f0a1b2",
+              "elType": "widget",
+              "widgetType": "divider",
+              "settings": {
+                "style": "solid",
+                "weight": { "unit": "px", "size": 3 },
+                "width": { "unit": "%", "size": 6 },
+                "color": "#007BFF",
+                "align": "center",
+                "gap": { "unit": "px", "size": 20 }
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "f0a1b2c3",
+      "elType": "section",
+      "settings": {
+        "layout": "boxed",
+        "content_width": { "size": 1140, "unit": "px" },
+        "gap": "default",
+        "padding": { "unit": "px", "top": "0", "right": "0", "bottom": "24", "left": "0", "isLinked": false },
+        "padding_tablet": { "unit": "px", "top": "0", "right": "20", "bottom": "20", "left": "20", "isLinked": false },
+        "padding_mobile": { "unit": "px", "top": "0", "right": "16", "bottom": "16", "left": "16", "isLinked": false },
+        "background_background": "classic",
+        "background_color": "#F8F9FA"
+      },
+      "elements": [
+        {
+          "id": "a1c2e3d4",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_inline_size": 33.33,
+            "_inline_size_tablet": 100,
+            "_inline_size_mobile": 100,
+            "padding": { "unit": "px", "top": "30", "right": "20", "bottom": "30", "left": "20", "isLinked": false },
+            "background_background": "classic",
+            "background_color": "#FFFFFF",
+            "border_radius": { "unit": "px", "top": "12", "right": "12", "bottom": "12", "left": "12", "isLinked": true }
+          },
+          "elements": [
+            {
+              "id": "b2d3f4e5",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "settings": {
+                "selected_icon": { "value": "fas fa-car", "library": "fa-solid" },
+                "title_text": "VIP Transfer",
+                "description_text": "Vip transfer hizmeti, havalimanında ve şehir içi ulaşımda kişiye özel olarak sunulan transfer işlemidir.",
+                "icon_color": "#007BFF",
+                "title_color": "#222222",
+                "description_color": "#555555",
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Inter",
+                "title_typography_font_size": { "unit": "px", "size": 18 },
+                "title_typography_font_weight": "700"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "c3e4a5f6",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_inline_size": 33.33,
+            "_inline_size_tablet": 100,
+            "_inline_size_mobile": 100,
+            "padding": { "unit": "px", "top": "30", "right": "20", "bottom": "30", "left": "20", "isLinked": false },
+            "background_background": "classic",
+            "background_color": "#FFFFFF",
+            "border_radius": { "unit": "px", "top": "12", "right": "12", "bottom": "12", "left": "12", "isLinked": true }
+          },
+          "elements": [
+            {
+              "id": "d4f5b6a7",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "settings": {
+                "selected_icon": { "value": "fas fa-plane", "library": "fa-solid" },
+                "title_text": "Havalimanı Transfer",
+                "description_text": "Havalimanı transfer hizmeti, uçuş saatlerine uygun olarak planan ve bekleme derdi olmadan sağlanan ulaşımdır.",
+                "icon_color": "#007BFF",
+                "title_color": "#222222",
+                "description_color": "#555555",
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Inter",
+                "title_typography_font_size": { "unit": "px", "size": 18 },
+                "title_typography_font_weight": "700"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "e5a6c7b8",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_inline_size": 33.33,
+            "_inline_size_tablet": 100,
+            "_inline_size_mobile": 100,
+            "padding": { "unit": "px", "top": "30", "right": "20", "bottom": "30", "left": "20", "isLinked": false },
+            "background_background": "classic",
+            "background_color": "#FFFFFF",
+            "border_radius": { "unit": "px", "top": "12", "right": "12", "bottom": "12", "left": "12", "isLinked": true }
+          },
+          "elements": [
+            {
+              "id": "f6b7d8c9",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "settings": {
+                "selected_icon": { "value": "fas fa-id-card", "library": "fa-solid" },
+                "title_text": "Şoförlü Araç Kiralama",
+                "description_text": "Şoförlü araç kiralama hizmeti, belirli süre ve güzergaha göre organize edilen kişiye özel ulaşımdır.",
+                "icon_color": "#007BFF",
+                "title_color": "#222222",
+                "description_color": "#555555",
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Inter",
+                "title_typography_font_size": { "unit": "px", "size": 18 },
+                "title_typography_font_weight": "700"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "a7c8e9d0",
+      "elType": "section",
+      "settings": {
+        "layout": "boxed",
+        "content_width": { "size": 1140, "unit": "px" },
+        "gap": "default",
+        "padding": { "unit": "px", "top": "0", "right": "0", "bottom": "80", "left": "0", "isLinked": false },
+        "padding_tablet": { "unit": "px", "top": "0", "right": "20", "bottom": "60", "left": "20", "isLinked": false },
+        "padding_mobile": { "unit": "px", "top": "0", "right": "16", "bottom": "40", "left": "16", "isLinked": false },
+        "background_background": "classic",
+        "background_color": "#F8F9FA"
+      },
+      "elements": [
+        {
+          "id": "b8d9f0e1",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": 50,
+            "_inline_size_tablet": 100,
+            "_inline_size_mobile": 100,
+            "padding": { "unit": "px", "top": "30", "right": "20", "bottom": "30", "left": "20", "isLinked": false },
+            "background_background": "classic",
+            "background_color": "#FFFFFF",
+            "border_radius": { "unit": "px", "top": "12", "right": "12", "bottom": "12", "left": "12", "isLinked": true }
+          },
+          "elements": [
+            {
+              "id": "c9e0a1f2",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "settings": {
+                "selected_icon": { "value": "fas fa-heart", "library": "fa-solid" },
+                "title_text": "Gelin Arabası Kiralama",
+                "description_text": "Gelin arabası kiralama hizmeti, düğün konseptine uygun araç modelleriyle şık ve rahat yolculuk sunulan hizmettir.",
+                "icon_color": "#007BFF",
+                "title_color": "#222222",
+                "description_color": "#555555",
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Inter",
+                "title_typography_font_size": { "unit": "px", "size": 18 },
+                "title_typography_font_weight": "700"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "d0f1b2a3",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": 50,
+            "_inline_size_tablet": 100,
+            "_inline_size_mobile": 100,
+            "padding": { "unit": "px", "top": "30", "right": "20", "bottom": "30", "left": "20", "isLinked": false },
+            "background_background": "classic",
+            "background_color": "#FFFFFF",
+            "border_radius": { "unit": "px", "top": "12", "right": "12", "bottom": "12", "left": "12", "isLinked": true }
+          },
+          "elements": [
+            {
+              "id": "e1a2c3b4",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "settings": {
+                "selected_icon": { "value": "fas fa-road", "library": "fa-solid" },
+                "title_text": "Şehirler Arası Transfer",
+                "description_text": "Şehirler arası araç transfer hizmeti, geniş iç hacmine sahip araçlarla uzun yolculuğun konforlu şekilde geçtiği hizmettir.",
+                "icon_color": "#007BFF",
+                "title_color": "#222222",
+                "description_color": "#555555",
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Inter",
+                "title_typography_font_size": { "unit": "px", "size": 18 },
+                "title_typography_font_weight": "700"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "f2b3d4c5",
+      "elType": "section",
+      "settings": {
+        "layout": "boxed",
+        "content_width": { "size": 1140, "unit": "px" },
+        "gap": "default",
+        "padding": { "unit": "px", "top": "80", "right": "0", "bottom": "40", "left": "0", "isLinked": false },
+        "padding_tablet": { "unit": "px", "top": "60", "right": "20", "bottom": "30", "left": "20", "isLinked": false },
+        "padding_mobile": { "unit": "px", "top": "40", "right": "16", "bottom": "20", "left": "16", "isLinked": false },
+        "background_background": "classic",
+        "background_color": "#0D1B2A"
+      },
+      "elements": [
+        {
+          "id": "a3c4e5d6",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": 100,
+            "padding": { "unit": "px", "top": "0", "right": "0", "bottom": "0", "left": "0", "isLinked": true }
+          },
+          "elements": [
+            {
+              "id": "b4d5f6e7",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Transfer Rezervasyonu Neden Yapmalısınız?",
+                "header_size": "h2",
+                "align": "center",
+                "title_color": "#FFFFFF",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": { "unit": "px", "size": 36 },
+                "typography_font_size_tablet": { "unit": "px", "size": 28 },
+                "typography_font_size_mobile": { "unit": "px", "size": 24 },
+                "typography_font_weight": "700",
+                "typography_line_height": { "unit": "em", "size": 1.3 }
+              },
+              "elements": []
+            },
+            {
+              "id": "c5e6a7f8",
+              "elType": "widget",
+              "widgetType": "divider",
+              "settings": {
+                "style": "solid",
+                "weight": { "unit": "px", "size": 3 },
+                "width": { "unit": "%", "size": 6 },
+                "color": "#007BFF",
+                "align": "center",
+                "gap": { "unit": "px", "size": 20 }
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "d6f7b8a9",
+      "elType": "section",
+      "settings": {
+        "layout": "boxed",
+        "content_width": { "size": 1140, "unit": "px" },
+        "gap": "default",
+        "padding": { "unit": "px", "top": "0", "right": "0", "bottom": "80", "left": "0", "isLinked": false },
+        "padding_tablet": { "unit": "px", "top": "0", "right": "20", "bottom": "60", "left": "20", "isLinked": false },
+        "padding_mobile": { "unit": "px", "top": "0", "right": "16", "bottom": "40", "left": "16", "isLinked": false },
+        "background_background": "classic",
+        "background_color": "#0D1B2A"
+      },
+      "elements": [
+        {
+          "id": "e7a8c9b0",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_inline_size": 33.33,
+            "_inline_size_tablet": 100,
+            "_inline_size_mobile": 100,
+            "padding": { "unit": "px", "top": "30", "right": "24", "bottom": "30", "left": "24", "isLinked": false },
+            "background_background": "classic",
+            "background_color": "rgba(255,255,255,0.06)",
+            "border_radius": { "unit": "px", "top": "12", "right": "12", "bottom": "12", "left": "12", "isLinked": true }
+          },
+          "elements": [
+            {
+              "id": "f8b9d0c1",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Zaman Kontrolünü Ele Alırsınız",
+                "header_size": "h3",
+                "align": "center",
+                "title_color": "#007BFF",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": { "unit": "px", "size": 20 },
+                "typography_font_size_tablet": { "unit": "px", "size": 18 },
+                "typography_font_size_mobile": { "unit": "px", "size": 18 },
+                "typography_font_weight": "700",
+                "typography_line_height": { "unit": "em", "size": 1.3 }
+              },
+              "elements": []
+            },
+            {
+              "id": "a9c0e1d2",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": { "unit": "px", "size": 12 },
+                "space_tablet": { "unit": "px", "size": 10 },
+                "space_mobile": { "unit": "px", "size": 8 }
+              },
+              "elements": []
+            },
+            {
+              "id": "b0d1f2e3",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>297 kişi rezervasyon yaparak aracı ve şoförü önceden planladı. Böylece geç kalma riski azaldı, sorunsuz şekilde ulaşım sağladı.</p>",
+                "align": "center",
+                "text_color": "#A0AEC0",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": { "unit": "px", "size": 15 },
+                "typography_font_size_tablet": { "unit": "px", "size": 14 },
+                "typography_font_size_mobile": { "unit": "px", "size": 14 },
+                "typography_line_height": { "unit": "em", "size": 1.7 }
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "c1e2d3f4",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_inline_size": 33.33,
+            "_inline_size_tablet": 100,
+            "_inline_size_mobile": 100,
+            "padding": { "unit": "px", "top": "30", "right": "24", "bottom": "30", "left": "24", "isLinked": false },
+            "background_background": "classic",
+            "background_color": "rgba(255,255,255,0.06)",
+            "border_radius": { "unit": "px", "top": "12", "right": "12", "bottom": "12", "left": "12", "isLinked": true }
+          },
+          "elements": [
+            {
+              "id": "d2f3a4e5",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Yoğun Dönemde Sorun Yaşamazsınız",
+                "header_size": "h3",
+                "align": "center",
+                "title_color": "#007BFF",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": { "unit": "px", "size": 20 },
+                "typography_font_size_tablet": { "unit": "px", "size": 18 },
+                "typography_font_size_mobile": { "unit": "px", "size": 18 },
+                "typography_font_weight": "700",
+                "typography_line_height": { "unit": "em", "size": 1.3 }
+              },
+              "elements": []
+            },
+            {
+              "id": "e3a4c5b6",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": { "unit": "px", "size": 12 },
+                "space_tablet": { "unit": "px", "size": 10 },
+                "space_mobile": { "unit": "px", "size": 8 }
+              },
+              "elements": []
+            },
+            {
+              "id": "f4b5d6c7",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>102 kişi özellikle sezonluk yoğunluklarda erken rezervasyon yaparak araç bulamama riskini ortadan kaldırdı.</p>",
+                "align": "center",
+                "text_color": "#A0AEC0",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": { "unit": "px", "size": 15 },
+                "typography_font_size_tablet": { "unit": "px", "size": 14 },
+                "typography_font_size_mobile": { "unit": "px", "size": 14 },
+                "typography_line_height": { "unit": "em", "size": 1.7 }
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "a5c6e7d8",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_inline_size": 33.33,
+            "_inline_size_tablet": 100,
+            "_inline_size_mobile": 100,
+            "padding": { "unit": "px", "top": "30", "right": "24", "bottom": "30", "left": "24", "isLinked": false },
+            "background_background": "classic",
+            "background_color": "rgba(255,255,255,0.06)",
+            "border_radius": { "unit": "px", "top": "12", "right": "12", "bottom": "12", "left": "12", "isLinked": true }
+          },
+          "elements": [
+            {
+              "id": "b6d7f8e9",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Yolculuk Planı Baştan Netleşir",
+                "header_size": "h3",
+                "align": "center",
+                "title_color": "#007BFF",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": { "unit": "px", "size": 20 },
+                "typography_font_size_tablet": { "unit": "px", "size": 18 },
+                "typography_font_size_mobile": { "unit": "px", "size": 18 },
+                "typography_font_weight": "700",
+                "typography_line_height": { "unit": "em", "size": 1.3 }
+              },
+              "elements": []
+            },
+            {
+              "id": "c7e8a9f0",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": { "unit": "px", "size": 12 },
+                "space_tablet": { "unit": "px", "size": 10 },
+                "space_mobile": { "unit": "px", "size": 8 }
+              },
+              "elements": []
+            },
+            {
+              "id": "d8f9b0a1",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>148 kişi nereden alınacağı, nereye bırakılacağı ve saat bilgilerini önceden belirleyerek ulaşım sürecinde belirsizlik yaşamadı.</p>",
+                "align": "center",
+                "text_color": "#A0AEC0",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": { "unit": "px", "size": 15 },
+                "typography_font_size_tablet": { "unit": "px", "size": 14 },
+                "typography_font_size_mobile": { "unit": "px", "size": 14 },
+                "typography_line_height": { "unit": "em", "size": 1.7 }
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "e9a0c1b2",
+      "elType": "section",
+      "settings": {
+        "layout": "boxed",
+        "content_width": { "size": 1140, "unit": "px" },
+        "gap": "default",
+        "padding": { "unit": "px", "top": "80", "right": "0", "bottom": "80", "left": "0", "isLinked": false },
+        "padding_tablet": { "unit": "px", "top": "60", "right": "20", "bottom": "60", "left": "20", "isLinked": false },
+        "padding_mobile": { "unit": "px", "top": "40", "right": "16", "bottom": "40", "left": "16", "isLinked": false },
+        "background_background": "classic",
+        "background_color": "#FFFFFF"
+      },
+      "elements": [
+        {
+          "id": "f0b1d2c3",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": 50,
+            "_inline_size_tablet": 100,
+            "_inline_size_mobile": 100,
+            "padding": { "unit": "px", "top": "30", "right": "30", "bottom": "30", "left": "30", "isLinked": false },
+            "background_background": "classic",
+            "background_color": "#F8F9FA",
+            "border_radius": { "unit": "px", "top": "12", "right": "12", "bottom": "12", "left": "12", "isLinked": true }
+          },
+          "elements": [
+            {
+              "id": "a1d2f3b4",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "settings": {
+                "selected_icon": { "value": "fas fa-star", "library": "fa-solid" },
+                "title_text": "En İyi Konfor",
+                "icon_color": "#007BFF",
+                "title_color": "#222222",
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Inter",
+                "title_typography_font_size": { "unit": "px", "size": 22 },
+                "title_typography_font_weight": "700"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "b2e3a4c5",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": 50,
+            "_inline_size_tablet": 100,
+            "_inline_size_mobile": 100,
+            "padding": { "unit": "px", "top": "30", "right": "30", "bottom": "30", "left": "30", "isLinked": false },
+            "background_background": "classic",
+            "background_color": "#F8F9FA",
+            "border_radius": { "unit": "px", "top": "12", "right": "12", "bottom": "12", "left": "12", "isLinked": true }
+          },
+          "elements": [
+            {
+              "id": "c3f4b5d6",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "settings": {
+                "selected_icon": { "value": "fas fa-car-side", "library": "fa-solid" },
+                "title_text": "Geniş Araç Seçeneği",
+                "icon_color": "#007BFF",
+                "title_color": "#222222",
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Inter",
+                "title_typography_font_size": { "unit": "px", "size": 22 },
+                "title_typography_font_weight": "700"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "d4a5c6e7",
+      "elType": "section",
+      "settings": {
+        "layout": "boxed",
+        "content_width": { "size": 1140, "unit": "px" },
+        "gap": "default",
+        "padding": { "unit": "px", "top": "80", "right": "0", "bottom": "80", "left": "0", "isLinked": false },
+        "padding_tablet": { "unit": "px", "top": "60", "right": "20", "bottom": "60", "left": "20", "isLinked": false },
+        "padding_mobile": { "unit": "px", "top": "50", "right": "16", "bottom": "50", "left": "16", "isLinked": false },
+        "background_background": "classic",
+        "background_color": "#007BFF"
+      },
+      "elements": [
+        {
+          "id": "e5b6d7f8",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": 100,
+            "padding": { "unit": "px", "top": "0", "right": "0", "bottom": "0", "left": "0", "isLinked": true }
+          },
+          "elements": [
+            {
+              "id": "f6c7e8a9",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Rezervasyon Oluştur",
+                "header_size": "h2",
+                "align": "center",
+                "title_color": "#FFFFFF",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": { "unit": "px", "size": 40 },
+                "typography_font_size_tablet": { "unit": "px", "size": 30 },
+                "typography_font_size_mobile": { "unit": "px", "size": 26 },
+                "typography_font_weight": "800",
+                "typography_line_height": { "unit": "em", "size": 1.2 }
+              },
+              "elements": []
+            },
+            {
+              "id": "a7d8f9b0",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": { "unit": "px", "size": 16 },
+                "space_tablet": { "unit": "px", "size": 14 },
+                "space_mobile": { "unit": "px", "size": 12 }
+              },
+              "elements": []
+            },
+            {
+              "id": "b8e9a0c1",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Sizi Arayalım</p>",
+                "align": "center",
+                "text_color": "rgba(255,255,255,0.85)",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": { "unit": "px", "size": 20 },
+                "typography_font_size_tablet": { "unit": "px", "size": 17 },
+                "typography_font_size_mobile": { "unit": "px", "size": 16 },
+                "typography_font_weight": "400",
+                "typography_line_height": { "unit": "em", "size": 1.6 }
+              },
+              "elements": []
+            },
+            {
+              "id": "c9f0b1d2",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": { "unit": "px", "size": 28 },
+                "space_tablet": { "unit": "px", "size": 22 },
+                "space_mobile": { "unit": "px", "size": 18 }
+              },
+              "elements": []
+            },
+            {
+              "id": "d0a1c2e3",
+              "elType": "widget",
+              "widgetType": "button",
+              "settings": {
+                "text": "Hemen Ara",
+                "link": { "url": "tel:+905333792232", "is_external": false, "nofollow": false },
+                "align": "center",
+                "size": "lg",
+                "background_color": "#FFFFFF",
+                "button_text_color": "#007BFF",
+                "border_radius": { "unit": "px", "top": "6", "right": "6", "bottom": "6", "left": "6", "isLinked": true },
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": { "unit": "px", "size": 16 },
+                "typography_font_weight": "700",
+                "button_hover_background_color": "#E8F0FF",
+                "button_hover_color": "#0056CC"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "e1b2d3f4",
+      "elType": "section",
+      "settings": {
+        "layout": "boxed",
+        "content_width": { "size": 1140, "unit": "px" },
+        "gap": "default",
+        "padding": { "unit": "px", "top": "80", "right": "0", "bottom": "80", "left": "0", "isLinked": false },
+        "padding_tablet": { "unit": "px", "top": "60", "right": "20", "bottom": "60", "left": "20", "isLinked": false },
+        "padding_mobile": { "unit": "px", "top": "40", "right": "16", "bottom": "40", "left": "16", "isLinked": false },
+        "background_background": "classic",
+        "background_color": "#FFFFFF"
+      },
+      "elements": [
+        {
+          "id": "f2c3e4a5",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_inline_size": 33.33,
+            "_inline_size_tablet": 100,
+            "_inline_size_mobile": 100,
+            "padding": { "unit": "px", "top": "0", "right": "20", "bottom": "0", "left": "20", "isLinked": false }
+          },
+          "elements": [
+            {
+              "id": "a3d4f5b6",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "settings": {
+                "selected_icon": { "value": "fas fa-map-marker-alt", "library": "fa-solid" },
+                "title_text": "Adres",
+                "description_text": "Talatpaşa Mah. Yaşarlı Cad. No: 26/A Kağıthane / İSTANBUL",
+                "icon_color": "#007BFF",
+                "title_color": "#222222",
+                "description_color": "#555555",
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Inter",
+                "title_typography_font_size": { "unit": "px", "size": 18 },
+                "title_typography_font_weight": "600"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "b4e5a6c7",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_inline_size": 33.33,
+            "_inline_size_tablet": 100,
+            "_inline_size_mobile": 100,
+            "padding": { "unit": "px", "top": "0", "right": "20", "bottom": "0", "left": "20", "isLinked": false }
+          },
+          "elements": [
+            {
+              "id": "c5f6b7d8",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "settings": {
+                "selected_icon": { "value": "fas fa-phone", "library": "fa-solid" },
+                "title_text": "Telefon",
+                "description_text": "+90 533 379 22 32 / 0212 222 52 37",
+                "icon_color": "#007BFF",
+                "title_color": "#222222",
+                "description_color": "#555555",
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Inter",
+                "title_typography_font_size": { "unit": "px", "size": 18 },
+                "title_typography_font_weight": "600"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "d6a7c8e9",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_inline_size": 33.33,
+            "_inline_size_tablet": 100,
+            "_inline_size_mobile": 100,
+            "padding": { "unit": "px", "top": "0", "right": "20", "bottom": "0", "left": "20", "isLinked": false }
+          },
+          "elements": [
+            {
+              "id": "e7b8d9f0",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "settings": {
+                "selected_icon": { "value": "fas fa-envelope", "library": "fa-solid" },
+                "title_text": "E-posta",
+                "description_text": "info@internasyonel.com.tr",
+                "icon_color": "#007BFF",
+                "title_color": "#222222",
+                "description_color": "#555555",
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Inter",
+                "title_typography_font_size": { "unit": "px", "size": 18 },
+                "title_typography_font_weight": "600"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    }
+  ]
+}
